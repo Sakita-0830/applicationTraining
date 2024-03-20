@@ -1,6 +1,7 @@
 # flutter_application_1
 
 A new Flutter project.
+![image](https://github.com/Sakita-0830/applicationTraining/assets/119716881/409720f4-f143-4ca5-820f-7e35c4e51e54)
 
 ## Getting Started
 
